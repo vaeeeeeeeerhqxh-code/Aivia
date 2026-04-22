@@ -1,0 +1,1 @@
+C:\Users\huawei\AndroidStudioProjects\OpenNutriTracker\build\app\intermediates\cxx\RelWithDebInfo\2z1g526u\obj\arm64-v8a

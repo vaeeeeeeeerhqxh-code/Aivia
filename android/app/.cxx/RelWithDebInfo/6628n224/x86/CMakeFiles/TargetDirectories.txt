@@ -1,0 +1,2 @@
+C:/Users/huawei/AndroidStudioProjects/OpenNutriTracker/android/app/.cxx/RelWithDebInfo/6628n224/x86/CMakeFiles/edit_cache.dir
+C:/Users/huawei/AndroidStudioProjects/OpenNutriTracker/android/app/.cxx/RelWithDebInfo/6628n224/x86/CMakeFiles/rebuild_cache.dir

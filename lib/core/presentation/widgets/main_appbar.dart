@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+import 'package:opennutritracker/core/utils/navigation_options.dart';
+
+class MainAppbar extends StatelessWidget implements PreferredSizeWidget {
+  final String title;
+  final IconData iconData;
+
+  const MainAppbar({super.key, required this.title, required this.iconData});
+
+  @override
+  Widget build(BuildContext context) {
+    return AppBar(
+      backgroundColor: Color(0xFFD4F7B5),
+      leading: Icon(iconData),
+      title: Text(title),
+    );
+  }
+
+  @override
+  Size get preferredSize => const Size.fromHeight(kToolbarHeight);
+}

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\huawei\\Downloads\\flutter_windows_3.29.2-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\huawei\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\huawei\\AndroidStudioProjects\\OpenNutriTracker\\android\\app\\.cxx\\RelWithDebInfo\\6628n224\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\huawei\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\huawei\\AndroidStudioProjects\\OpenNutriTracker\\android\\app\\.cxx\\RelWithDebInfo\\6628n224\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
